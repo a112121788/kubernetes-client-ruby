@@ -2,6 +2,13 @@
 
 Ruby client for the [kubernetes](http://kubernetes.io/) API.
 
+## Install
+
+```
+git 'git@github.com:a112121788/kubernetes-client-ruby.git' do
+  gem 'kubernetes'
+end
+```
 ## Usage
 ```ruby
 require 'kubernetes'
